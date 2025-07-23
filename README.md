@@ -10,6 +10,6 @@ On a few occasions I did ask an AI for help understanding how to implement a fea
 | I did       | I didn't    |
 | ----------- | ----------- |
 | Ask AI how to implement a feature | Ask AI to generate any code for me |
-| Go through answers I received to make sure I understood and agreed with it (if I used the answer given to me) | Blindly copy/paste/trust the code/concepts from answers |
+| Go through answers I received to make sure I understood and agreed with them (if I used the answer given to me) | Blindly copy/paste/trust the code/concepts from answers |
 
 Note: in the case of implementing AABB collision detection I did copy the AI's code. But this was only because the AABB formula is well known and for some reason I couldn't find a cleanly readable version online that wasn't buried in a ton of other code. So it was just faster to ask AI. Even in this case I didn't blindly trust the answer. I took time to pick apart the code and made sure I understood how and why it worked.
