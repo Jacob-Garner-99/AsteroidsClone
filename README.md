@@ -1,5 +1,7 @@
 # Asteroids Clone
 
+![Project Image](https://i.imgur.com/vchvD53.png)
+
 **Asteroids Clone** is a clone of the classic "Asteroids" arcade game written in C# which runs in the Windows command prompt (aka: console). The goal of this project was to re-create a classic game purely from scratch without any 3rd party frameworks/libraries (i.e. MonoGame, Pygame, etc.). In order to achieve this goal I wrote my own minimal game framework for the console in which the game was programmed! This minimal game framework (name not yet decided) supports: loading and rendering multiple sprites (made up of ASCII art), checking if two sprites are colliding, entering and exiting different game scenes, running at a target FPS, and a few other things.
 
 My next goal is to start making a more fully fushed-out version of the game framework I created for myself and others to use! The framework will be as streight forward and as simple as possible so that newer game devs (like me!) can dive right into learning game programming concepts (such as world generation) before moving to more complex frameworks or full on game engines. Alternatively it could be used to just experiment and have fun!
