@@ -1,6 +1,6 @@
 # Asteroids Clone
 
-![Project Image](https://i.imgur.com/vchvD53.png)
+![Project Image](https://i.imgur.com/t91GFm4.png)
 
 [Project blog post](https://devquest.blot.im/making-a-game-for-windows-command-prompt)
 
